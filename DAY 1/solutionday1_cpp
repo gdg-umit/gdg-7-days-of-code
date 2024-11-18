@@ -1,0 +1,10 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int main()
+{
+string a="Coding";
+string doubled_a = a+" "+a;
+cout<< doubled_a<< endl;
+return 0;
+}
