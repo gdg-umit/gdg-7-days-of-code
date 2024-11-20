@@ -8,6 +8,10 @@
 Objective:
 - To solve coding problems daily and participate in a final hackathon, enhancing problem-solving skills and GitHub proficiency.
 ---
+## Leaderboard: 
+
+- Check your score [here](https://docs.google.com/spreadsheets/d/1G9eG2xOIARhpTQkXfeMaYAIE8I7U7n_c0Nf2hc61nas/edit?usp=drivesdk)
+---
 ## How to Participate
 - Fork the Repository
 - Commit your code and push it to your fork in a folder of that specific day with a appropriate file name.<br>
@@ -18,7 +22,7 @@ Objective:
 ### Daily Challenge Points:
 
 - Submitting a correct solution before the deadline grants full points.
-- Late submissions may earn partial points (optional).
+- Late submissions may earn partial points.
 - The mini-hackathon on 25th November will have its own point weightage for two problems.
 
 ### Points Distribuation
@@ -29,4 +33,4 @@ Objective:
 ## Top Performers:
 
 - The leaderboard will highlight participant's cumulative scores.
-- Top 5 participants who demonstrate consistency and problem-solving skills will win recognition or prizes (optional).
+- Top 5 participants who demonstrate consistency and problem-solving skills will win recognition or prizes.
