@@ -1,5 +1,7 @@
-# **Foo Bar Baz Problem**
+### **GDG 7 Days of Code - Day 4 Challenge**
 
+**Problem Title**: **Foo Bar Baz Problem**
+---
 ## **Problem Statement**
 You need to implement a program that prints one of the words `"Foo"`, `"Bar"`, `"FooBar"`, or `"Baz"` for every integer within a given range. The output depends on the properties of the number as follows:
 

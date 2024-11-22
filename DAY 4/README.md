@@ -1,4 +1,6 @@
-# **Exams in University**
+## **GDG 7 Days of Code - Day 4 Challenge**
+
+**Problem Title**:  **Exams in University**
 
 ## **Problem Statement**
 

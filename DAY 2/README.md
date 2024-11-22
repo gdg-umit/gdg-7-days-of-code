@@ -1,5 +1,10 @@
-### **Problem Statement: Pattern Printing**
+### **GDG 7 Days of Code - Day 2 Challenge**
 
+**Problem Title**: Pattern Printing**
+
+---
+
+#### **Problem Statement:**
 Write a program to print a pyramid pattern based on the input value N. Each level of the pyramid contains a specific number of stars * such that the number of stars at each level increases by  2 as you move down, starting from 1 star at the topmost level. 
 The width of the pyramid base depends on the input N. The stars are centered, with spaces added before the stars to maintain the pyramid shape.
 
