@@ -16,7 +16,6 @@ Objective:
 - [Chaitrali Raje](https://github.com/chai127)
 
 -.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.--.-.-.-.
-
 - [Divya Gurav](https://github.com/Diya411)
 - [Himanshi Bhat](https://github.com/Himanshhii)
 - [Samani Humaira](https://github.com/Samani-Humaira)
@@ -25,6 +24,7 @@ Objective:
 - [Shivani Keda Sandhanshiv](https://github.com/Shivsandhanshiv)
 - [Anuja Patil](https://github.com/AnujaHub)
 
+-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.--.-.-.-.
 ### Consistent Participants
 - [Poornima Menon](https://github.com/p-mn19)
 - [Vaibhavi Sawant](https://github.com/vaibhavi045)
@@ -38,7 +38,9 @@ Objective:
 - [Yashashree Pradhan](https://github.com/yashashree0705) 
 
  For more checkout [here](https://docs.google.com/spreadsheets/d/1cI2MnmAcFBK4NO1xT7_fgZx1AHQ8iju6fh9I-n-OFhY/edit?usp=sharing)
- 
+-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.--.-.-.-.
+### Solutions by [Divya Gurav](https://github.com/Diya411)
+-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.--.-.-.-.
 ## How to Participate
 - Fork the Repository
 - Commit your code and push it to your fork in a folder of that specific day with a appropriate file name.<br>
