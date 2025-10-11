@@ -10,8 +10,35 @@ Objective:
 ---
 ## Leaderboard: 
 
-- Check your score [here](https://docs.google.com/spreadsheets/d/1G9eG2xOIARhpTQkXfeMaYAIE8I7U7n_c0Nf2hc61nas/edit?usp=drivesdk)
----
+### Winners
+- [Komal Tiwari](https://github.com/fudgemenot)
+- [Bhoomi Parekh](https://github.com/bhoomiparekh313)
+- [Chaitrali Raje](https://github.com/chai127)
+
+-.-.-.-.-.-..-.-.-.-.-.-.-.-.-.-.-.-.-.-..-.-.-.-.-.-.--.-.-.-.
+
+- [Divya Gurav](https://github.com/Diya411)
+- [Himanshi Bhat](https://github.com/Himanshhii)
+- [Samani Humaira](https://github.com/Samani-Humaira)
+- [Midhat Sayed](https://github.com/Midhat-hub)
+- [Yashashree Pradhan](https://github.com/yashashree0705) 
+- [Shivani Keda Sandhanshiv](https://github.com/Shivsandhanshiv)
+- [Anuja Patil](https://github.com/AnujaHub)
+
+### Consistent Participants
+- [Poornima Menon](https://github.com/p-mn19)
+- [Vaibhavi Sawant](https://github.com/vaibhavi045)
+- [Komal Tiwari](https://github.com/fudgemenot)
+- [Bhoomi Parekh](https://github.com/bhoomiparekh313)
+- [Chaitrali Raje](https://github.com/chai127)
+- [Divya Gurav](https://github.com/Diya411)
+- [Himanshi Bhat](https://github.com/Himanshhii)
+- [Samani Humaira](https://github.com/Samani-Humaira)
+- [Midhat Sayed](https://github.com/Midhat-hub)
+- [Yashashree Pradhan](https://github.com/yashashree0705) 
+
+ For more checkout [here](https://docs.google.com/spreadsheets/d/1cI2MnmAcFBK4NO1xT7_fgZx1AHQ8iju6fh9I-n-OFhY/edit?usp=sharing)
+ 
 ## How to Participate
 - Fork the Repository
 - Commit your code and push it to your fork in a folder of that specific day with a appropriate file name.<br>
@@ -28,9 +55,4 @@ Objective:
 ### Points Distribuation
 - Full Solution: 10 points
 - Partial Solution: 5 points
-- Hackathon Problems: 50 points each
----
-## Top Performers:
-
-- The leaderboard will highlight participant's cumulative scores.
-- Top 5 participants who demonstrate consistency and problem-solving skills will win recognition or prizes.
+- Hackathon Problems: 200 points
